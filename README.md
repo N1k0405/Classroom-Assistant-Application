@@ -2,7 +2,7 @@
 
 ## DISCLAIMER
 
-> **Note**: This project was developed at the beginning of my coding journey when my knowledge was limited. As a result, the project may contain suboptimal formatting and insufficient commenting. Please refer to version 2 of this project for improvements. As seen in the code, given my knowledge at the time, I utilized clever solutions for data management, particularly through local text file storage, as I was restricted to using Java and file I/O.
+> **Note**: This project was developed at the beginning of my coding journey when my knowledge was limited. As a result, the project may contain suboptimal formatting and insufficient commenting. Please refer to version 2 of this project for technical improvements and improved coding practices. As seen in the code, given my knowledge at the time, I utilized clever solutions for data management, particularly through local text file storage, as I was restricted to using Java and file I/O.
 
 ---
 
